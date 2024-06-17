@@ -1,5 +1,8 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: Venkatesh Prabhu
+description: Senior Software Engineer
+blog: Blog
+skills: Skills
+home: Home
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
